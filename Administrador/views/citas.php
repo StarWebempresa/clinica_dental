@@ -4,7 +4,7 @@
 <body id="page-top">
 
     <!-- Begin Page Content -->
-    <!-- prueba de versionar EN GITHUB-->
+    <!-- prueba de versionar EN GITHUB para ver-->
     <div class="container-fluid">
 
         <!-- DataTales Example -->
